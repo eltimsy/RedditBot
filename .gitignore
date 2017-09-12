@@ -5,6 +5,7 @@
 *.egg-info
 *.eggs
 *.cache
+secrets.py
 lib/python3.6
 include
 dist
